@@ -21,5 +21,10 @@ This is a line from RStudio
 =======
 
 one line another line  
+<<<<<<< HEAD
 this is a line from Rstudio
 >>>>>>> ba3cef89b2a3ff40afccd44e33662c5383ee8799
+=======
+this is a line from Rstudio  
+testing1
+>>>>>>> 50cd695f92901b8369decda4492c1ce9e2f93152
