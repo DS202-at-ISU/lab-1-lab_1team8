@@ -29,4 +29,6 @@ testing1
     trial and error.  
 4.  Attaching our team respository to Rstudio was as struggle. It was a
     challenge to figure out which file to edit and how to correctly
-    commit messages.
+    commit messages.  
+5.  It is important to ensure merging is complete. If not you can solve
+    the problem with abort command.
