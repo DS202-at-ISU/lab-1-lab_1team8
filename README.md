@@ -20,3 +20,13 @@ you are done with your submission.
 one line another line  
 this is a line from Rstudio  
 testing1
+
+1.  Getting the key authentication was a struggle to get into. We could
+    not figure out what email address or username to input.  
+2.  Downloading git correctly was a challenge to make sure the we had it
+    correctly installed.  
+3.  Figuring out the process of pushing a pulling was overcome through
+    trial and error.  
+4.  Attaching our team respository to Rstudio was as struggle. It was a
+    challenge to figure out which file to edit and how to correctly
+    commit messages.
