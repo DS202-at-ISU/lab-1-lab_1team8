@@ -20,4 +20,11 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 one line another line  
 this is a line from Rstudio  
+<<<<<<< HEAD
 testing1
+=======
+
+Struggles -
+
+1) 
+>>>>>>> a051755826aa55b650b07c2f0d7671691fe3bb78

@@ -27,4 +27,8 @@ this is a line from Rstudio
 =======
 this is a line from Rstudio  
 testing1
+<<<<<<< HEAD
+another line from studio
+=======
 >>>>>>> 50cd695f92901b8369decda4492c1ce9e2f93152
+>>>>>>> ad60d5333297085a9a0df6a9d1ae3a204c02c560
