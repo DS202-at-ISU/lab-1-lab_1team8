@@ -16,5 +16,24 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+<<<<<<< HEAD
 
 This is a line from RStudio.
+=======
+<<<<<<< HEAD
+This is a line from RStudio
+=======
+
+one line another line  
+<<<<<<< HEAD
+this is a line from Rstudio
+>>>>>>> ba3cef89b2a3ff40afccd44e33662c5383ee8799
+=======
+this is a line from Rstudio  
+testing1
+<<<<<<< HEAD
+another line from studio
+=======
+>>>>>>> 50cd695f92901b8369decda4492c1ce9e2f93152
+>>>>>>> ad60d5333297085a9a0df6a9d1ae3a204c02c560
+>>>>>>> 62d00ef696ef1d2f8c27bc0087bc2e60a467c96f
