@@ -26,5 +26,34 @@ testing1
 
 Struggles -
 
+<<<<<<< HEAD
 1) 
 >>>>>>> a051755826aa55b650b07c2f0d7671691fe3bb78
+=======
+1) Getting the key authentication work was a struggle. Could not figure out email/username 
+USed trial/error with GitHub emial/password options and HTTPS troubleshoot
+
+2) Downlaoding Git package correctly
+Followed steps in Chapter 6 and used stackoverflow
+
+3) Figuring out the process of pushing and pulling 
+Reviewed chapter 12 and used online resources
+
+4) Attaching team repository to Rstudio
+Followed steps in chapter 12; help from Professor
+
+Struggles -
+
+1)  Getting the key authentication work was a struggle. Could not figure
+    out email/username USed trial/error with GitHub emial/password
+    options and HTTPS troubleshoot
+
+2)  Downlaoding Git package correctly Followed steps in Chapter 6 and
+    used stackoverflow
+
+3)  Figuring out the process of pushing and pulling Reviewed chapter 12
+    and used online resources
+
+4)  Attaching team repository to Rstudio Followed steps in chapter 12;
+    help from Professor
+>>>>>>> 4331f89e70dcba7e933930a6227d911e6be5875e
