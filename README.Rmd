@@ -64,4 +64,13 @@ Struggles - GA
 12.4) Only trouble was authentication error. Many people seemed to struggle with this.
 
 12.5) Had to figure out merging and making sure all versions are the same before we could push and pull.
+
+More struggles - 
+ 1) I had issues configuring to git beyond the user and password config lines so I talked to the instructor and made a supertoken to get access.
+ 
+ 2) We had to coordinate when to pull or push to make sure that we have the most updated version of the file.
+ 
+ 3) We had to figure out which file to edit because the textbook said the md file whereas the class slides said Rmd. Eventually we realized the difference and used the Rmd.
+ 
+ 4) Making sure to submit with the true url instead of the one github provides is something to keep in mind.
 >>>>>>> 4331f89e70dcba7e933930a6227d911e6be5875e
